@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hamburguesas/static/css/main.9d8ccdb5.css",
+    "main.js": "/hamburguesas/static/js/main.e3bec3cc.js",
+    "static/js/787.94e5cc11.chunk.js": "/hamburguesas/static/js/787.94e5cc11.chunk.js",
+    "static/media/Lechuga.png": "/hamburguesas/static/media/Lechuga.20eab0e1a79d5b65cbc5.png",
+    "static/media/Carne.png": "/hamburguesas/static/media/Carne.1d7eea984d94d44c8521.png",
+    "static/media/Panceta.png": "/hamburguesas/static/media/Panceta.292369f612e7f2639357.png",
+    "static/media/Tomate.png": "/hamburguesas/static/media/Tomate.90a24bb33f19b46b325e.png",
+    "static/media/Cebolla.png": "/hamburguesas/static/media/Cebolla.18bfb4276d8d6e0a9a3d.png",
+    "static/media/Papas.png": "/hamburguesas/static/media/Papas.fd7db472cebe917ca97a.png",
+    "static/media/Queso.png": "/hamburguesas/static/media/Queso.2687dd0090d045745d09.png",
+    "static/media/Jamon.png": "/hamburguesas/static/media/Jamon.d4b3f64ebfc22813fca1.png",
+    "index.html": "/hamburguesas/index.html",
+    "main.9d8ccdb5.css.map": "/hamburguesas/static/css/main.9d8ccdb5.css.map",
+    "main.e3bec3cc.js.map": "/hamburguesas/static/js/main.e3bec3cc.js.map",
+    "787.94e5cc11.chunk.js.map": "/hamburguesas/static/js/787.94e5cc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8ccdb5.css",
+    "static/js/main.e3bec3cc.js"
+  ]
+}
